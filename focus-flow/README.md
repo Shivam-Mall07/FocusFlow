@@ -29,7 +29,7 @@ Then open http://localhost:3000.
 ## Deployment
 
 Deploy to Vercel by clicking **Publish** in v0 
-focusflow-s-32b2.vercel.app
+http://focusflow-s-32b2.vercel.app
 . No environment variables are required.
 
 ## Structure
